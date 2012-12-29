@@ -160,5 +160,6 @@ LOGGING = {
 GRAPPELLI_ADMIN_TITLE = "Bobba administration"
 AUTOCOMPLETE_LIMIT = 10
 
-import local_settings
+from local_settings import *
+
 
